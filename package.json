@@ -1,0 +1,27 @@
+{
+  "name": "pairexercise.node-shell",
+  "version": "1.0.0",
+  "description": "node shell exercise",
+  "main": "bash.js",
+  "scripts": {
+    "test": "q"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SongyeeHan000/PairExercise.node-shell.git"
+  },
+  "keywords": [
+    "node",
+    "shell",
+    "exercise"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SongyeeHan000/PairExercise.node-shell/issues"
+  },
+  "homepage": "https://github.com/SongyeeHan000/PairExercise.node-shell#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
